@@ -1,0 +1,9 @@
+/*   CSS STYLING   */
+
+body
+{
+    background: linear-gradient(to right, rgb(65, 137, 237) , rgb(39, 232, 235));
+
+    text-align: center;
+    align-items: center;
+}
